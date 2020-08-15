@@ -1,1 +1,4 @@
-{}
+{
+    "cannot_select.not_your_kingdom": "無法選擇敵對王國。",
+    "cannot_select.not_in_current_kingdom": "你選擇的單位並不在目前選擇的王國。請先選擇王國。"
+}
