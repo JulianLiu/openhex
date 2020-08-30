@@ -1,5 +1,6 @@
 {
     "cannot_select.not_your_kingdom": "無法選擇敵對王國。",
     "cannot_select.not_in_current_kingdom": "你選擇的單位並不在目前選擇的王國。請先選擇王國。",
-    "cannot_select.no_unit_here": "你試著從一個六角取得單位，但該六角上沒有任何單位。"
+    "cannot_select.no_unit_here": "你試著從一個六角取得單位，但該六角上沒有任何單位。",
+    "cannot_select.already_played": "你選了一個已經行動過的單位。你要等到下一回合才能選擇該單位。"
 }
